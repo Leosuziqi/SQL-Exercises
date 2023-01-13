@@ -1,6 +1,6 @@
 ## SQL Social-Network Query Exercises
 
-Students at your hometown high school have decided to organize their social network using databases. So far, they have collected information about students in four grades, 9-12. Here's the schema:
+Introduction of Scenario: Students at your hometown high school have decided to organize their social network using databases. So far, they have collected information about students in four grades, 9-12. Here's the schema:
 
 ##  Database 
 
