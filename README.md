@@ -14,4 +14,4 @@ SQL Exercises from online course: Stanford Online SOE.YDB-SQL0001 (Databases: Re
 
 ## My Certificate
 
-![]()
+![](StanfordOnline%20SOE.YDB-SQL0001%20Certificate%20_%20edX.pdf)
